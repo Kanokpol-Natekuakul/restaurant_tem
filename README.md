@@ -1,1 +1,1 @@
-Practice html css respostive 
+Practice html css resposive 
